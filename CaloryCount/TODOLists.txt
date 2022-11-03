@@ -1,0 +1,10 @@
+#1. MenuBar
+
+Show About page.
+Allow to set a goal 9currently set by "magic" number 3000)
+
+#2. Animation of man running.
+
+Change visibly mass, grade, speed
+
+#3. Application icon should be visible in the folder and in the task bar
